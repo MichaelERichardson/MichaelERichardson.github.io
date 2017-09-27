@@ -4,7 +4,7 @@ type: project
 image: images/cpp_final_exam_square.png
 title: C++ Final Exam Menu
 permalink: projects/Cpp_Final_Exam
-date: 2013
+date: 
 labels:
   - C++
   - CodeBlocks
