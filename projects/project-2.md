@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Moonbucks Coffee.jpg
+image: images/mooonbucks-square.png
 title: Moonbucks Order Form
 permalink: projects/Moonbucks
 date: 
