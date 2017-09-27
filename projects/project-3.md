@@ -8,12 +8,12 @@ date:
 labels:
   - Photoshop
   - PowerPoint
-summary:  This was my final project in my Systems Analysis class. we were asked to build a new system for On The Spot Courier Services.
+summary:  This was my final project in my Systems Analysis class. We were asked to build a new system for On The Spot Courier Services.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/8841097_orig.jpg">
 
-This was my final project in my Systems Analysis class. we were asked to build a new system for On The Spot Courier Services. we were split into two man team were one was to design the interface (The Programmer) and the other was to design the system itself(Networking). I was the programmer for my team and this is my part of the project.
+This was my final project in my Systems Analysis class. We were asked to build a new system for On The Spot Courier Services. we were split into two man team were one was to design the interface (The Programmer) and the other was to design the system itself(Networking). I was the programmer for my team and this is my part of the project.
  
 Below in the source files, you will find the PowerPoint presentations, systems report, and other supporting files.
  
