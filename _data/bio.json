@@ -27,8 +27,8 @@
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "puptent",
+        "url": "http://instagram.com/puptent"
       }
     ]
   },
@@ -56,35 +56,46 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "HTML",
+        "CSS",
         "C++",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Visual Basic",
+        "SQL",
+        "GitHub",
+        "Python"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Personal",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Troubleshooting",
+        "Web Development",
+        "Computer Repair",
+        "Mechaniclly Inclined",
+        "Graphic Design"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "Wallace State, Hanceville, AL",
+      "area": "Computer Science Programming",
+      "studyType": "A.S.",
+      "startDate": "2013-01-01",
+      "endDate": "2015",
+      "gpa": "3.57",
       "courses": [
+        "Visual Basic",
+        "Adv. Visual Basic",
+        "Web Development",
+        "Server Administration",
+        "C++",
+        "Adv. C++",
+        "Database Management SQL",
+        "Network Communications",
+        "System Analysis",
       ]
     }
   ],
