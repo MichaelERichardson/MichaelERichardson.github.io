@@ -66,6 +66,6 @@ cout<< "----------------------------------------" << endl;
 } 
 </pre>
  
-</hr>
+<hr>
  
 Source Files: <a href="https://github.com/michaelerichardson/C-Final-Exam-Menu"><i class="large github icon"></i>Michael Richardson/C++ Final Exam Menu</a>
