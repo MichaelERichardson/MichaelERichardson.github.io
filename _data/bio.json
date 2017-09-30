@@ -1,113 +1,43 @@
 {
   "basics": {
     "name": "Michael Richardson",
-    "label": "IT Technician",
-    "picture": "https://MichaelERichardson.github.io/images/michaelrichardson.jpg",
+    "label": "IT Professional",
+    "picture": "",
     "email": "mer8662@gmail.com",
     "phone": "",
     "website": "https://michaelerichardson.github.io",
-    "summary": "I'm Michael Richardson, digital artist and IT Technician, working in web development and computer hardware & software. If you have a project that needs some creativity or someone to think outside the box, you've come to the right guy.",
+    "summary": "I am an IT professional with many years of experience with hardware, software, web development and other aspects of information technology. I believe that my experience and more importantly, my love for technology is what set me apart from others.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
-      "countryCode": "USA",
+      "city": "Gardendale",
+      "countryCode": "US",
       "region": "Alabama"
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "michaelerichardson",
-        "url": "http://github.com/changeme"
-      },
-      {
         "network": "linkedin",
         "username": "Michael Richardson",
-        "url": "http://linkedin.com/in/michael-richardson-aaba606b"
+        "url": "http://linkedin.com/in/michael-richardson-aaba606"
       },
       {
-        "network": "instagram",
-        "username": "puptent",
-        "url": "http://instagram.com/puptent"
+        "network": "Github",
+        "username": "michaelerichardson",
+        "url": "http://github.com/michaelerichardson"
       }
     ]
   },
-  "interests": [
-    {
-      "name": "new technology",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "augmented reality",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "space exploration",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "C++",
-        "Javascript",
-        "Visual Basic",
-        "SQL",
-        "GitHub",
-        "Python"
-      ]
-    },
-    {
-      "name": "Personal",
-      "level": "",
-      "keywords": [
-        "Troubleshooting",
-        "Web Development",
-        "Computer Repair",
-        "Mechaniclly Inclined",
-        "Graphic Design"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Wallace State, Hanceville, AL",
-      "area": "Computer Science Programming",
-      "studyType": "A.S.",
-      "startDate": "2013-01-01",
-      "endDate": "2015",
-      "gpa": "3.57",
-      "courses": [
-        "Visual Basic",
-        "Adv. Visual Basic",
-        "Web Development",
-        "Server Administration",
-        "C++",
-        "Adv. C++",
-        "Database Management SQL",
-        "Network Communications",
-        "System Analysis",
-      ]
-    }
-  ],
   "work": [
     {
       "company": "Rellis Ink",
       "position": "Freelance",
       "website": "",
-      "startDate": "2006-01-01",
+      "startDate": "2006",
       "endDate": "Present",
-      "summary": "Freelance",
+      "summary": "",
       "highlights": [
         "Design web graphics, logos, write code, and set up websites for customers",
-        "Build custom computers, install & setb up new software and hardware"
+        "Build custom computers, install & setb up new software and hardware",
         "Troubleshoot hardware and software issues"
       ]
     },
@@ -115,54 +45,137 @@
       "company": "Cushman & Wakefield",
       "position": "Maintenance Technician",
       "website": "",
-      "startDate": "2015-07-01",
+      "startDate": "2015",
       "endDate": "Present",
       "summary": "",
       "highlights": [
         "Program and monitor the building automation system (Niagara R2 & Niagara 4)",
-        "Write “engineering disciplines” books, which explain the steps required to perform each maintenance task as a guide for current and future employees"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
+        "Write “engineering disciplines” books, which explain the steps required to perform each maintenance task as a guide for current and future employees",
+        "Complete proactive and repair work orders"
       ]
     },
     {
-      "organization": "",
+      "company": "Oxylance Inc",
+      "position": "Machine Technician",
       "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2011",
+      "endDate": "2015",
       "summary": "",
       "highlights": [
-        "",
-        "",
-        ""
+        "Set up machine press, expanders, deburring machine, and threaders",
+        "Operate a commercial wash tank, overhead crane, and forklift"
       ]
     }
   ],
-  "certifications": [
+  "volunteer": [],
+  "education": [
     {
-      "title": "Niagara 4 Technical Certification",
-      "date": "",
-      "awarder": "Tridium University",
+      "institution": "Wallace State",
+      "area": "Computer Science-Programming ",
+      "studyType": "",
+      "startDate": "2013",
+      "endDate": "2015",
+      "gpa": "3.57",
+      "courses": [
+        "Adv. Visual Basic",
+        "Adv. C++",
+        "Server Administration",
+        "Database Management SQL",
+        "Network Communications",
+        "Web Development",
+        "Systems Analysis"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "2016 Cushman & Wakefield Team of the Year",
+      "date": "2016",
+      "awarder": "Cushman & Wakefield",
       "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "Troubleshooting",
+        "High Mechanical Aptitude",
+        "Programming",
+        "Computer Repair",
+        "Mechanically Inclined",
+        "Hardware & Software Installation",
+        "Graphic Design",
+        "Video Editing & Design"
+      ]
     },
+    {
+      "name": "Software",
+      "level": "",
+      "keywords": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe Premiere Pro",
+        "Niagara R2",
+        "Niagara 4",
+        "CodeBlocks",
+        "Visual Studios",
+        "Windows XP-7",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Wordpress"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "C++",
+        "Visual Basic",
+        "SQL",
+        "Python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "New Technology",
+      "keywords": [
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "Space Exploration",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "History",
+      "keywords": []
+    }
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "",
+      "reference": "Available upon request"
     }
   ]
 }
